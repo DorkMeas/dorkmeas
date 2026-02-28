@@ -36,6 +36,6 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dorkmeas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dorkmeas&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dorkmeas&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DorkMeas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DorkMeas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DorkMeas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
