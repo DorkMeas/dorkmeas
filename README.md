@@ -1,6 +1,8 @@
 # Hi, I'm Meas 👋
-🎓 A Computer Science Student</br>
-🏫 Preah Sihamoniraja Buddhist University, Cambodia</br>
+🎓 A Computer Science Student
+<br></br>
+🏫 Preah Sihamoniraja Buddhist University, Cambodia
+<br></br>
 💻 Aspiring Software Engineer, Backend Developer, System Architect
 
 # 💫 About Me:
