@@ -8,6 +8,7 @@ My main focus is on Software Engineering, backend architecture, and performance 
 <br><br>
 I enjoy solving complex problems, designing structured systems, and writing clean, maintainable code.
 ## 🛠️ Tech Stack
+### 💻 Languages
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,dotnet,dart,flutter,rust,go,vue,nuxt,nestjs" alt="js,ts,cpp,cs,dotnet,dart,flutter,rust,go,vue,nuxt,nestjs" />
