@@ -1,5 +1,5 @@
 # Hi, I'm Meas👋
-A third-year Computer Science student at <a href="https://psbuinternational.com/">Preah Sihamoniraja Buddhist University</a>, Cambodia.
+A Computer Science student at <a href="https://psbuinternational.com/">Preah Sihamoniraja Buddhist University</a>, Cambodia.
 <br><br>
 👨‍💻 Aspiring Software Engineer, Backend Developer, System Architect
 ## 💫 About Me
