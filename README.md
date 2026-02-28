@@ -34,8 +34,16 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+## 🎯 Current Focus
++ Microservices Architecture
+<br></br>
++ Secure API Development (DevSecOps mindset)
+<br></br>
++ Performance Optimization & Load Testing
+<br></br>
++ Clean Architecture & System Design
 
-## 🎯 GitHub Stats
+## 🔧 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=DorkMeas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DorkMeas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DorkMeas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
