@@ -1,11 +1,7 @@
-# Hi, I'm Meas 👋
-🎓 A Computer Science Student
-<br></br>
-🏫 Preah Sihamoniraja Buddhist University, Cambodia
-<br></br>
-💻 Aspiring Software Engineer, Backend Developer, System Architect
-
 # 💫 About Me:
+Hi, I'm Meas 👋<br>A third-year Computer Science student at Preah Sihamoniraja Buddhist University, Cambodia.<br><br>
+👨‍💻 Aspiring Software Engineer, Backend Developer, System Architect
+
 Hi, I'm Meas 👋<br>A third-year Computer Science student at Preah Sihamoniraja Buddhist University, Cambodia.<br><br>I am passionate about Software Engineering, Web Development, and System Design.<br>Currently, I am focusing on:<br><br>+ Backend Development (ASP.NET Core, RESTful APIs)<br><br>+ Secure System Architecture & DevSecOps<br><br>+ Performance Analysis and Microservices<br><br>+ C++ and JavaScript Integration<br><br>I enjoy building scalable systems, writing clean code, and learning modern technologies.<br>I believe in continuous learning and using technology to create real impact.<br><br>📌 Current Goals:<br><br>+ Master Software Architecture<br><br>+ Build secure and high-performance systems<br><br>+ Contribute to open-source projects<br><br>Let’s build something meaningful together.
 <hr>
 <p align=center>
