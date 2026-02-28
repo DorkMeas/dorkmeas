@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hi, I'm Meas 👋<br>A third-year Computer Science student at Preah Sihamoniraja Buddhist University, Cambodia.<br><br>I am passionate about Software Engineering, Web Development, and System Design.<br>Currently, I am focusing on:<br><br>+ Backend Development (ASP.NET Core, RESTful APIs)<br><br>+ Secure System Architecture & DevSecOps<br><br>+ Performance Analysis and Microservices<br><br>+ C++ and JavaScript Integration<br><br>I enjoy building scalable systems, writing clean code, and learning modern technologies.<br>I believe in continuous learning and using technology to create real impact.<br><br>📌 Current Goals:<br><br>+ Master Software Architecture<br><br>+ Build secure and high-performance systems<br><br>+ Contribute to open-source projects<br><br>Let’s build something meaningful together.
 
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bun,typescript,dart,flutter,rust,go,elysia,actix,react,nextjs,vue,nuxt,svelte,astro,graphql" alt="bun,typescript,dart,flutter,rust,go,elysia,actix,react,nextjs,vue,nuxt,svelte,astro,graphql" />
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/DorkMeasOfficial) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@DorkMeasOfficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@DorkMeasOfficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dorkmeas@gmail.com) 
