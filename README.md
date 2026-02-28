@@ -3,7 +3,7 @@ Hi, I'm Meas 👋<br>A third-year Computer Science student at Preah Sihamoniraja
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bun,typescript,dart,flutter,rust,go,elysia,actix,react,nextjs,vue,nuxt,svelte,astro,graphql" alt="js,ts,cpp,cs,dotnet,dart,flutter,rust,go,vue,nuxt,nestjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,dotnet,dart,flutter,rust,go,vue,nuxt,nestjs" alt="js,ts,cpp,cs,dotnet,dart,flutter,rust,go,vue,nuxt,nestjs" />
   </a>
 </p>
 
