@@ -11,7 +11,7 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 ### 💻 Languages
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,dart,cpp,cs"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,php,dart,cpp,cs,rust"/>
   </a>
 </p>
 
