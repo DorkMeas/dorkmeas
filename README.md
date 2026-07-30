@@ -15,7 +15,7 @@ I enjoy solving complex problems, designing structured systems, and writing clea
   </a>
 </p>
 
-### 💎 Backend & Frameworks
+### 🔧 Backend & Frameworks
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -42,8 +42,3 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 + Performance Optimization & Load Testing
 <br></br>
 + Clean Architecture & System Design
-
-## 🔧 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DorkMeas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DorkMeas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DorkMeas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
