@@ -39,7 +39,7 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 <br></br>
 + Clean Architecture & System Design
 
-### 🏃‍♂️‍➡️ Activity Graph
+## 🏃‍♂️‍➡️ Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DorkMeas&theme=react-dark&hide_border=true&area=true" />
