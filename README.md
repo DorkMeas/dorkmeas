@@ -10,9 +10,7 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 ## 🛠️ Tech Stack
 ### 💻 Languages
 <p align=center>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,php,py,dart,cpp,cs,rust"/>
-  </a>
 </p>
 
 ### 🔧 Frontend & Backend Technologies
