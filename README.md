@@ -39,5 +39,5 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 
 ## 🏃‍♂️‍➡️ Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DorkMeas&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=DorkMeas&theme=react-dark&hide_border=true&area=true" />
 </p>
