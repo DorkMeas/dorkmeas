@@ -29,6 +29,10 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 🎯 Current Focus
+<a href='https://undraw.co/'> 
+    <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
+</a>
+
 + Microservices Architecture
 <br></br>
 + Secure API Development (DevSecOps mindset)
