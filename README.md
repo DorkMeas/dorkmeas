@@ -39,16 +39,15 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 
 ## 🏃‍♂️‍➡️ Activity Graph
 <p align="center">
-  <img
-    src="https://fabianocouto-activity-graph.vercel.app/graph?username=DorkMeas&bg_color=0d1117&color=64ceea&line=64ceea&point=ffffff&area=true&area_color=64ceea&hide_border=true&radius=10"
-    width="100%"
-  />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=DorkMeas&bg_color=0d1117&color=64ceea&line=64ceea&point=ffffff&area=true&area_color=64ceea&hide_border=true&radius=10"
+    width="100%"/>
 </p>
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=DorkMeas&cache_seconds=7200&layout=compact&title_color=64ceea&text_color=64ceea&icon_color=64ceea&bg_color=0d1117&border_color=64ceea&border_radius=10" />
+    <img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=DorkMeas&background=0d1117&border=64ceea&stroke=64ceea&ring=64ceea&fire=64ceea&currStreakNum=64ceea&sideNums=64ceea&currStreakLabel=64ceea&sideLabels=64ceea&dates=64ceea&border_radius=10" />
+</p>
 
-  <img height="180em"
-       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorkMeas&langs_count=8&layout=compact&hide=java&title_color=64ceea&text_color=64ceea&icon_color=64ceea&bg_color=0d1117&border_color=64ceea&border_radius=10" />
+<p align="center">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DorkMeas&cache_seconds=7200&layout=compact&title_color=64ceea&text_color=64ceea&icon_color=64ceea&bg_color=0d1117&border_color=64ceea&border_radius=10" />
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorkMeas&langs_count=8&layout=compact&hide=java&title_color=64ceea&text_color=64ceea&icon_color=64ceea&bg_color=0d1117&border_color=64ceea&border_radius=10" />
 </p>
