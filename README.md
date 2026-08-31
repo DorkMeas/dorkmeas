@@ -48,6 +48,6 @@ I enjoy solving complex problems, designing structured systems, and writing clea
 </p>
 
 <p align="center">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DorkMeas&cache_seconds=7200&layout=compact&title_color=64ceea&text_color=64ceea&icon_color=64ceea&bg_color=0d1117&border_color=64ceea&border_radius=10" />
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorkMeas&langs_count=8&layout=compact&hide=java&title_color=64ceea&text_color=64ceea&icon_color=64ceea&bg_color=0d1117&border_color=64ceea&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DorkMeas&cache_seconds=7200&layout=compact&title_color=64ceea&text_color=64ceea&icon_color=64ceea&bg_color=0d1117&border_color=64ceea&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DorkMeas&langs_count=8&layout=compact&hide=java&title_color=64ceea&text_color=64ceea&icon_color=64ceea&bg_color=0d1117&border_color=64ceea&border_radius=10" />
 </p>
